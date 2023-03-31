@@ -1,3 +1,4 @@
 resale*
-*.txt
 *.zip
+metadata*
+.ipynb_checkpoints/
